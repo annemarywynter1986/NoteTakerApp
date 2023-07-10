@@ -67,7 +67,16 @@ The following animation demonstrates the application functionality:
 [Click Here to Watch]()
 
 ## Screenshots:
-### Figure 1. Screenshot
+### 
+![image](https://github.com/annemarywynter1986/NoteTakerApp/assets/130412307/2bfd6d8b-dd14-4377-ad77-0693bbc61ae9)
+![image](https://github.com/annemarywynter1986/NoteTakerApp/assets/130412307/4c5d32fa-f45e-4120-b276-4293e39b7d07)
+![image](https://github.com/annemarywynter1986/NoteTakerApp/assets/130412307/aae3b311-b94f-4d90-b4af-12957f9a2837)
+after clicking on delete button
+![image](https://github.com/annemarywynter1986/NoteTakerApp/assets/130412307/689361fc-6aea-4fc3-865c-58b088670b40)
+
+
+
+
 
 
 ## Installation Process
