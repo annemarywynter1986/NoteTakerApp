@@ -1,18 +1,3 @@
 [
-  3,
-  {
-    "title": "hello",
-    "text": "note\n",
-    "id": 0
-  },
-  {
-    "title": "note",
-    "text": "note",
-    "id": 1
-  },
-  {
-    "title": "hello node",
-    "text": "node text",
-    "id": 2
-  }
+  3
 ]
