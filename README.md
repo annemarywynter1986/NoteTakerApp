@@ -64,9 +64,12 @@ The following animation demonstrates the application functionality:
 [Deployed Application Link:]()
 
 ##  Walkthrough Video:
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1zqnBno5DpE2Q-wCC8vjMggCBR2Tx6QEh/view?usp=sharing)
 
 ## Screenshots:
+
+![Untitled design (9)](https://github.com/annemarywynter1986/NoteTakerApp/assets/130412307/421979e5-959f-453b-be60-0353b4863034)
+
 ### 
 ![image](https://github.com/annemarywynter1986/NoteTakerApp/assets/130412307/2bfd6d8b-dd14-4377-ad77-0693bbc61ae9)
 ![image](https://github.com/annemarywynter1986/NoteTakerApp/assets/130412307/4c5d32fa-f45e-4120-b276-4293e39b7d07)
